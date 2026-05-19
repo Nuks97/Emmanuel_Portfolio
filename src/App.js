@@ -67,8 +67,8 @@ import {
   CloudSync,
   Dashboard,
   Phone,
-  Science,          // ← added for Research section
-  MenuBook,         // ← added for Research section
+  Science,          
+  MenuBook,        
 } from "@mui/icons-material";
 import opsimage from "../src/Images/Ops.png";
 import ata1mage from "../src/Images/ATA1.png";
