@@ -151,7 +151,7 @@ const ROLES = [
 // ── NEW: What I Do strip ──
 const WHAT_I_DO = [
   { icon: <BarChart />,    label: "Business Intelligence" },
-  { icon: <Storage />,     label: "Data Engineering" },
+ // { icon: <Storage />,     label: "Data Engineering" },
   { icon: <Psychology />,  label: "Machine Learning" },
   { icon: <AutoAwesome />, label: "AI Engineering" },
   { icon: <Analytics />,   label: "Data Science" },
